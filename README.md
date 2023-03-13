@@ -25,7 +25,7 @@
             </ul>
         </nav>
         <main>
-            <iframe src="inicio.html" id="marco" name="info">
+            <iframe name="info">
             
             </iframe>
         </main>
@@ -33,7 +33,7 @@
     <footer id="pie">
         &copy; Colegio de Bachilleres Plantel Cancún Dos, J.M. Ucan Cih
         <p>
-            <img src="imagenes/facebook.png"> cobachdoscancun<br>
+            cobachdoscancun<br>
             Teléfono del colegio: 9988887204<br>
             Email Ucan: juanucan@cobaqroo.edu.mx <br>
             Plataforma Ucan: www.ucan.firenow.net <br>
