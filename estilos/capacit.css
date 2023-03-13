@@ -1,0 +1,23 @@
+#encab{
+    text-align: center;
+    color: blue;
+}
+#imagenes{
+    width: 100%;
+    background-color:azure;
+    border: double;
+}
+.capacit{
+    clear: both;
+    display: inline-block;
+    width: 48%;
+    text-align: justify;
+    padding: 8px;
+}
+.galer{
+    display: inline-block;
+    width: 11%;
+    padding: 8px;
+    text-align: center;
+    border: solid;
+}

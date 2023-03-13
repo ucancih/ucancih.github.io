@@ -1,0 +1,23 @@
+#barraizq{
+    display: inline-block;
+    float: left;
+    padding: 4px;
+    margin: 4px;
+    width: 48%;
+    border: groove;
+    text-align: center;
+}
+main{
+    display: inline-block;
+    width: 50%;
+    padding-bottom: 6px;
+}
+
+#encab{
+    text-align: center;
+    color: blue;
+}
+.arti{
+    text-align: justify;
+    font-size: 20px;
+}
