@@ -13,23 +13,16 @@
         </header>
         <nav id="barraNav">
             <ul>
-                <li class="menu">
-                    Inicio
-                </li>
-                <li class="menu">
-                    El colegio
-                </li>
-                <li class="menu">
-                    Capacitaciones
-                </li>
+                <li class="menu"> Inicio </li>
+                <li class="menu"> El colegio </li>
+                <li class="menu"> Capacitaciones</li>
             </ul>
         </nav>
         <main>
             <iframe name="info">
-            
+                <article>Hola a todos</article>
             </iframe>
         </main>
-    </body>
     <footer id="pie">
         &copy; Colegio de Bachilleres Plantel Cancún Dos, J.M. Ucan Cih
         <p>
@@ -39,4 +32,5 @@
             Plataforma Ucan: www.ucan.firenow.net <br>
         </p>
     </footer>
+   </body>
 </html>
